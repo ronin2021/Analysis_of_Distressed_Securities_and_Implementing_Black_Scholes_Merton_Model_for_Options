@@ -1,6 +1,6 @@
-# Sector Analysis Project
+# Sector Analysis Throughout the Pandemic: Airline, Hospitality, Cruiseship, and Restaurant Industries
 
-## Team: Matthew Willson, Indrajith Senevirathne, Nicholas DePalma, Jamel Harvey 
+## Team: Indrajith Senevirathne, Jamel Harvey, Matthew Willson, and Nicholas DePalma
 
 ## Project Description: 
 
@@ -31,10 +31,3 @@ Sector analysis of airline, hospitality, cruiseship, and restaurant stocks befor
     5)  Concatenate daily returns dataframes into one dataframe; visualize the performance of all stocks on one graph. 
     6)  Calculate the risk to reward ratio for each stock and identify the smartest stock to invest in over the 3 year period.
     7)  Run monte carlo simulations to predict future stock performance.
- 
-
-
-
-
-
-

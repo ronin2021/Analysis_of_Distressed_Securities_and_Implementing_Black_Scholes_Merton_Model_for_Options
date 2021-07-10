@@ -4,16 +4,12 @@
 
 ## Project Description: 
 
-Sector analysis of airline, hospitality, cruiseship, and restaurant stocks before, during, and after the Covid-19 pandemic. Determine and visualize which stocks performed best throughout the period 1/1/18 to 6/30/21. 
+Sector analysis of airline, hospitality, cruiseship, and restaurant stocks before, during, and after the Covid-19 pandemic. Determine and visualize which stocks performed best throughout the period 1/1/18 to 6/30/21. Performance will be measured against the S&P 500.
 
     *   Airline Stocks: Delta, American Airlines
     *   Hospitality Stocks: Hilton, Marriott
     *   Cruiseship Stocks: Carnival, Royal Caribbean 
-    *   Restaurant Stocks: Dine Brands Global, Mcdonalds
-
-## Proposal:
-
-Compare the effects of Covid-19 on the value of airline, hospitality, cruiseship, and restaurant stocks. Performance will be measured against the S&P 500. 
+    *   Restaurant Stocks: Dine Brands Global, Mcdonalds 
 
 ## Research Questions to be Answered:
 

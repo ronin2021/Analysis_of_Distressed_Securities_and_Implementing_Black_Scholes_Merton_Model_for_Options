@@ -1,0 +1,8 @@
+1)  Create and clean price data within google sheets using the google finance function; convert spreadsheets into CSV files. [DONE]
+2)  Read CSV files into Python and create individual Pandas dataframes for each stock. [DONE]
+3)  Create new Pandas dataframes for each stock showing daily returns using the pct_change function. [DONE]
+4)  Visualize performance of stocks compared to the S&P 500 over the three year window. 
+5)  Calculate beta for each stock before, during, and after the pandemic. 
+5)  Concatenate daily returns dataframes into one dataframe; visualize the performance of all stocks on one graph. 
+6)  Calculate the risk to reward ratio for each stock and identify the smartest stock to invest in over the 3 year period.
+7)  Run monte carlo simulations to predict future stock performance.

@@ -13,21 +13,27 @@ Sector analysis of airline, hospitality, cruiseship, and restaurant stocks befor
 
 ## Research Questions to be Answered:
 
-    * How large was the impact of the pandemic on each sector?(Airlines, Hospitality, Cruiseship, and Restaurant)
+    * What sector had the largest economic impact due to the instability of the market?
     * What sector performed the best/worst throughout the pandemic?
     * How did each sector perform compared to the S&P 500?
 
 ## Datasets 
 
-    * Daily closing prices of each stock from January 2018 to June 2021.
+    * Daily closing prices of each stock from January 2018 to June 2021. 
 
 ## Breakdown of Tasks
 
     1)  Create and clean price data within google sheets using the google finance function; convert spreadsheets into CSV files. 
     2)  Read CSV files into Python and create individual Pandas dataframes for each stock. 
-    3)  Create new Pandas dataframes for each stock showing daily returns using the pct_change function. 
-    4)  Visualize performance of stocks compared to the S&P 500 over the three year window. 
-    5)  Calculate beta for each stock before, during, and after the pandemic. 
-    5)  Concatenate daily returns dataframes into one dataframe; visualize the performance of all stocks on one graph. 
-    6)  Calculate the risk to reward ratio for each stock and identify the smartest stock to invest in over the 3 year period.
-    7)  Run monte carlo simulations to predict future stock performance.
+    3)  Create Pandas dataframes showing daily returns of each stock using the pct_change function. 
+    4)  Concatenate daily returns dataframes into one dataframe; visualize the performance of all stocks on one graph. 
+    5)  Create cumulative returns for each stock for the cumulative returns dataframe.
+    6)  Visualize cumulative returns dataframe and conduct analysis.
+    7)  Calculate and visualize the standard deviation of each stock. 
+    5)  Calculate beta for each stock on a rolling basis throughout the pandemic.
+    6)  Calculate Sharpe ratios for each stock on a rolling basis throughout the pandemic. 
+    7)  Calculate and visualize reward to risk ratios for each stock.
+    8)  Incorporate SciPy and Mibian libraries to utilize the Black Scholes formula for options and implied volatility analysis
+    9)  Run time series analysis of Nifty 50 index fund call options and implied volatility to better understand investor's outlook on the market during the pandemic. 
+   
+ 

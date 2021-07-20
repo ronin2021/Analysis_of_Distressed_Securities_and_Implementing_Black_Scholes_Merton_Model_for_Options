@@ -35,5 +35,6 @@ Sector analysis of airline, hospitality, cruiseship, and restaurant stocks befor
     7)  Calculate and visualize reward to risk ratios for each stock.
     8)  Incorporate SciPy and Mibian libraries to utilize the Black Scholes formula for options and implied volatility analysis
     9)  Run time series analysis of Nifty 50 index fund call options and implied volatility to better understand investor's outlook on the market during the pandemic. 
-   
- 
+
+## Data Visualization
+ ![Cumulative Returns Visualization](https://user-images.githubusercontent.com/83780964/126245902-be1ca41a-d591-4257-b44f-552008c8912b.png)

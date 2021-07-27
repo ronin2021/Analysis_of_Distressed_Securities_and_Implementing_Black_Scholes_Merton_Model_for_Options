@@ -1,4 +1,4 @@
-# Sector Analysis Throughout the Pandemic: Airline, Hospitality, Cruiseship, and Restaurant Industries
+# Sector Analysis Throughout the Pandemic: Airline, Hospitality, Cruiseship, and Restaurant Industries and Implementing Black-Scholes-Merton Model for Options
 
 ## Team: Indrajith Senevirathne, Jamel Harvey, Matthew Willson, and Nicholas DePalma
 

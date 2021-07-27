@@ -1,6 +1,6 @@
 # Sector Analysis Throughout the Pandemic: Airline, Hospitality, Cruiseship, and Restaurant Industries
 
-## Team: Indrajith Senevirathne, Jamel Harvey, Matthew Willson, Malkebu Moore, and Nicholas DePalma
+## Team: Indrajith Senevirathne, Jamel Harvey, Matthew Willson, and Nicholas DePalma
 
 ## Project Description: 
 
